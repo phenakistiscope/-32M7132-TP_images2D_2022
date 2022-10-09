@@ -21,5 +21,8 @@
 ## Informations
 
 *Adrien Jeanrenaud*
+
 adrien.jeanrenaud@unige.ch
+
+Université de Genève
 
